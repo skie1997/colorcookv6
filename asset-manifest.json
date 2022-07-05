@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/colorcookv6/static/css/main.9c2a838a.chunk.css",
-    "main.js": "/colorcookv6/static/js/main.14917dd1.chunk.js",
-    "main.js.map": "/colorcookv6/static/js/main.14917dd1.chunk.js.map",
+    "main.js": "/colorcookv6/static/js/main.ec351e33.chunk.js",
+    "main.js.map": "/colorcookv6/static/js/main.ec351e33.chunk.js.map",
     "runtime~main.js": "/colorcookv6/static/js/runtime~main.5d5fcc60.js",
     "runtime~main.js.map": "/colorcookv6/static/js/runtime~main.5d5fcc60.js.map",
     "static/css/2.7b6a2a93.chunk.css": "/colorcookv6/static/css/2.7b6a2a93.chunk.css",
-    "static/js/2.9d7195b3.chunk.js": "/colorcookv6/static/js/2.9d7195b3.chunk.js",
-    "static/js/2.9d7195b3.chunk.js.map": "/colorcookv6/static/js/2.9d7195b3.chunk.js.map",
+    "static/js/2.9e777c74.chunk.js": "/colorcookv6/static/js/2.9e777c74.chunk.js",
+    "static/js/2.9e777c74.chunk.js.map": "/colorcookv6/static/js/2.9e777c74.chunk.js.map",
     "index.html": "/colorcookv6/index.html",
-    "precache-manifest.2b90d27c593e8426e34cc64dfebfbf32.js": "/colorcookv6/precache-manifest.2b90d27c593e8426e34cc64dfebfbf32.js",
+    "precache-manifest.79a1a82e2721f2ff9e245bf9a6790c0b.js": "/colorcookv6/precache-manifest.79a1a82e2721f2ff9e245bf9a6790c0b.js",
     "service-worker.js": "/colorcookv6/service-worker.js",
     "static/css/2.7b6a2a93.chunk.css.map": "/colorcookv6/static/css/2.7b6a2a93.chunk.css.map",
     "static/css/main.9c2a838a.chunk.css.map": "/colorcookv6/static/css/main.9c2a838a.chunk.css.map"
